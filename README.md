@@ -1,2 +1,2 @@
-# robot_framework
+# Robot Framework
 BDD project with Robot Framework
